@@ -1,6 +1,6 @@
 ### Hi, I'm Abhi 👋🏽
 
-I'm a web developer and product designer passionate about digital user experiences, web design, and scalable design systems. I love creating beautiful products, fostering efficient workflows, hacking functional prototypes, and writing well‑crafted CSS.
+I'm a web developer and product designer passionate about user and developer experiences, typography, and scalable design systems. I love creating beautiful products, fostering efficient workflows, hacking functional prototypes, and writing well‑crafted CSS.
 
 ---
 
