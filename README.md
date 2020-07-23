@@ -5,7 +5,7 @@ I'm a web developer and product designer passionate about digital user experienc
 ---
 
 ###### ABOUT
-I earned a BS in Computer Science and MS in Web Design Systems from NJIT. Currently, I'm part of a team developing remote collaboration tools like [Plectica](https://www.plectica.com/), [Subtask](https://www.subtask.co/), and [team.video](https://team.video/). I also work on [knopf.css](https://knopf.dev/) and [now.me](https://now.me/).
+I earned a BS in Computer Science and MS in Web Design Systems from NJIT. Currently, I'm part of a team developing remote collaboration tools like [Plectica](https://www.plectica.com/), [Subtask](https://www.subtask.co/), [team.video](https://team.video/), and [VideoKit](https://videokit.io/). I also work on [knopf.css](https://knopf.dev/) and [now.me](https://now.me/).
 
 ---
 
